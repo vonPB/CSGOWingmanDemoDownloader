@@ -7,8 +7,8 @@ Using Python, Selenium to navigate to CSGOs player statics, grabbing the downloa
 <h2>Usage</h2>
 <ol type="1">
 	<li>Download: "chromdriver.exe", "downloaddemos.bat", "wingman-demos.py" and "Wingman.exe" from <a href="https://github.com/vonPB/CSGOWingmanDemoDownloader/releases">releases</a></li>
-	<li>Put all four files in the folder where you want the download to be stored</li>
-	<li>Log in to Steam on Chrome</li>
+	<li>Put all four files in the folder where you want the downloads to be stored</li>
+	<li>Login to Steam on Chrome</li>
   <li>Close all Chrome tabs</li>
   <li>Double click "downloaddemos.bat</li>
 </ol>
