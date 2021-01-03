@@ -1,7 +1,7 @@
 # CSGO Wingman Demo Downloader
 <b>Script to automatically pull CSGO wingman demos from the users Steam account.</b>
 <br>
-Using Python, Selenium to navigate to CSGO Player statics, grabbing download links and dates of the matches.
+Using Python, Selenium to navigate to CSGOs player statics, grabbing the download links and dates of the recent matches.
 
 
 <h2>Usage</h2>
@@ -13,4 +13,4 @@ Using Python, Selenium to navigate to CSGO Player statics, grabbing download lin
   <li>Double click "downloaddemos.bat</li>
 </ol>
 
-To access the demos inside of CSGO press "Shift + F2" at any time, click on "load" and choose the demo you which to play.
+To access the demos inside of CSGO press "Shift + F2" and click on "load" and choose the demo you wish to play.
