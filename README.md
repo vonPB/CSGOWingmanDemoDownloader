@@ -14,3 +14,5 @@ Using Python, Selenium to navigate to CSGOs player statics, grabbing the downloa
 </ol>
 
 To access the demos inside of CSGO press "Shift + F2" and click on "load" and choose the demo you wish to play.
+
+Based on [martengooz wingman-dl](https://github.com/martengooz/wingman-dl)
